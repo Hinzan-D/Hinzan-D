@@ -23,7 +23,7 @@ When I'm not coding, you can find me geeking about soccer, hiking and exploring 
 
 - 😄 My Pronouns: He/Him   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+- 💬 Ask me about: My favorite language is C++.
 
 - 📫 How to reach me: [@hinzancheick@outlook.com](mail_to:hinzancheick@outlook.com)
 
