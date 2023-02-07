@@ -6,10 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
-
  <!-- About section -->
 
 ---
@@ -36,7 +32,7 @@ When I'm not coding, you can find me geeking about soccer, hiking and exploring 
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/egwuenugift"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hinzan-diarrassouba/" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/hinzan-diarrassouba/"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hinzan-diarrassouba/" alt="LinkedIn Badge"></a> 
    </p>
 
  <!-- Conecct section: END -->
