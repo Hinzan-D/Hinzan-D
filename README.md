@@ -1,10 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Hinzan Diarrassouba</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
  <!-- About section -->
 
@@ -19,11 +15,11 @@ When I'm not coding, you can find me geeking about soccer, hiking and exploring 
 
 - 😄 My Pronouns: He/Him   
 
-- 💬 Ask me about: My favorite language is C++.
+- 💬 Ask me about: C++. It's my favorite language.
 
 - 📫 How to reach me: [@hinzancheick@outlook.com](mail_to:hinzancheick@outlook.com)
 
-- ⚡ Fun fact: I enjoy cooking and I'm known as the King of Plantains, a staple from my home country, Ivory Coast.
+- ⚡ Fun fact: I'll fry you the best plantains you've ever had.
 
 <!-- About section: END -->
 
@@ -39,7 +35,7 @@ When I'm not coding, you can find me geeking about soccer, hiking and exploring 
  
   
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
